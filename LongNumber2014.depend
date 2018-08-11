@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1414339754 source:c:\users\user01\documents\code blocks (projects)\longnumber2014\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"List_Function.h"
+
+1414336933 c:\users\user01\documents\code blocks (projects)\longnumber2014\list_function.h
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<string.h>
+	<cstring>
+	<math.h>
+	<time.h>
+
+1414339630 source:c:\users\user01\documents\code blocks (projects)\longnumber2014\ln.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<string.h>
+	<cstring>
+	"List_Function.h"
+
+1414340219 source:c:\users\user01\documents\code blocks (projects)\longnumber2014\ln inheritance.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<stdlib.h>
+	<sstream>
+	<string.h>
+	<math.h>
+	<cstring>
+	"List_Function.h"
+
